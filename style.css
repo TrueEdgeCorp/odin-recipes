@@ -13,12 +13,24 @@ h3 {
     background-color: black;
     color: white;
     padding: 5px;
+    text-align: center;
+}
+
+p {
+    margin-left: 320px;
+    margin-right: 300px;
 }
 
 h4 {
     color: rgb(105, 75, 0);
+    margin-left: 320px;
 }
 
+ul,
+ol {
+    margin-left: 300px;
+    margin-right: 300px;
+}
 
 
 .title {
@@ -33,7 +45,7 @@ h4 {
 .listmain {
     font-size: 30px;
     font-style: italic;
-    background-color: rgb(228, 155, 20);
     padding-top: 5px;
     padding-bottom: 10px;
+    margin-left: 635px;
 }
